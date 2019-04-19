@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e8a9277-debe-4ab0-b70d-e552292dc06f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/app/channels/application_cable/channel.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/app/channels/application_cable/connection.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/app/controllers/application_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/app/controllers/concerns/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/app/jobs/application_job.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/app/mailers/application_mailer.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/app/models/application_record.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/app/models/concerns/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/app/views/layouts/mailer.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/app/views/layouts/mailer.text.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/bin/bundle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/bin/rails" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/bin/rake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/bin/setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/bin/spring" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/bin/update" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config.ru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/application.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/boot.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/cable.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/credentials.yml.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/database.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/environment.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/environments/development.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/environments/production.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/environments/test.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/initializers/application_controller_renderer.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/initializers/backtrace_silencers.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/initializers/cors.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/initializers/filter_parameter_logging.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/initializers/inflections.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/initializers/mime_types.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/initializers/wrap_parameters.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/locales/en.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/puma.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/routes.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/spring.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/config/storage.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/db/seeds.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/lib/tasks/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/log/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/storage/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/test/controllers/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/test/fixtures/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/test/fixtures/files/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/test/integration/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/test/mailers/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/test/models/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/test/test_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/tmp/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARCard_Rails/vendor/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARPeople_Rails" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../face_api/app.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-LIFF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tweet-calendar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter-api-ruby" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BotController.rb" />
+        <option value="$PROJECT_DIR$/app.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LINEBotCommandHandler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LINEBotCommandHandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e8a9277-debe-4ab0-b70d-e552292dc06f" name="Default Changelist" comment="" />
+      <created>1555682619487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555682619487</updated>
+      <workItem from="1555682621357" duration="134000" />
+      <workItem from="1555682793465" duration="1036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1170000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3299363" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BotController.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
