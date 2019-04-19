@@ -1,6 +1,6 @@
 require 'sinatra'
 require 'line/bot'
-
+require './event_handler'
 def client
   @client ||= Line::Bot::Client.new { |config|
     config.channel_secret = ENV["LINE_CHANNEL_SECRET"]
@@ -17,5 +17,6 @@ post '/callback' do
   end
 
   events = client.parse_events_from(body)
-
+  event_handler = EventHandler.new
+  event_handler.execute(events, client)
 end
