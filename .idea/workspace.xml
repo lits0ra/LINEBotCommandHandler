@@ -61,14 +61,11 @@
       <change afterPath="$PROJECT_DIR$/../ARCard_Rails/tmp/.keep" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ARCard_Rails/vendor/.keep" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ARPeople_Rails" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command_handler.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../face_api/app.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lib-LIFF" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tweet-calendar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../twitter-api-ruby" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event_handler.rb" beforeDir="false" afterPath="$PROJECT_DIR$/event_handler.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/command_handler.rb" beforeDir="false" afterPath="$PROJECT_DIR$/command_handler.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,8 +110,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/command_handler.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="90">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -192,12 +189,12 @@
       <workItem from="1555682621357" duration="134000" />
       <workItem from="1555682793465" duration="1553000" />
       <workItem from="1555716232368" duration="1351000" />
-      <workItem from="1555724916521" duration="2922000" />
+      <workItem from="1555724916521" duration="3373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5960000" />
+    <option name="totallyTimeSpent" value="6411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -245,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/command_handler.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="90">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
