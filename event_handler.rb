@@ -8,7 +8,7 @@ class EventHandler < CommandHandler
       when Line::Bot::Event::Message
         case event.type
         when Line::Bot::Event::MessageType::Text
-          command_handler_execute(event, client)
+          command_handler_execute(event)
         end
       end
     end
