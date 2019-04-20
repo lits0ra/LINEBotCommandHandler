@@ -3,7 +3,6 @@ def help_message(event)
   @client.reply_message(event['replyToken'], message)
 end
 
-private
 def message_template(reply_text)
   {
       type: 'text',

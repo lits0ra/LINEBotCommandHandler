@@ -61,11 +61,11 @@
       <change afterPath="$PROJECT_DIR$/../ARCard_Rails/tmp/.keep" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ARCard_Rails/vendor/.keep" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ARPeople_Rails" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../face_api/app.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lib-LIFF" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tweet-calendar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../twitter-api-ruby" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.rb" beforeDir="false" afterPath="$PROJECT_DIR$/functions.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,8 +119,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -199,12 +199,12 @@
       <workItem from="1555682621357" duration="134000" />
       <workItem from="1555682793465" duration="1553000" />
       <workItem from="1555716232368" duration="1351000" />
-      <workItem from="1555724916521" duration="4066000" />
+      <workItem from="1555724916521" duration="4188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7104000" />
+    <option name="totallyTimeSpent" value="7226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -259,8 +259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
