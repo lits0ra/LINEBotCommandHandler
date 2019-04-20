@@ -65,7 +65,6 @@
       <change afterPath="$PROJECT_DIR$/../lib-LIFF" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tweet-calendar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../twitter-api-ruby" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/command_handler.rb" beforeDir="false" afterPath="$PROJECT_DIR$/command_handler.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/command_handler.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="270">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -189,12 +188,12 @@
       <workItem from="1555682621357" duration="134000" />
       <workItem from="1555682793465" duration="1553000" />
       <workItem from="1555716232368" duration="1351000" />
-      <workItem from="1555724916521" duration="3373000" />
+      <workItem from="1555724916521" duration="3546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6411000" />
+    <option name="totallyTimeSpent" value="6584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -242,8 +241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/command_handler.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

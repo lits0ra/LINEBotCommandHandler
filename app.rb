@@ -17,6 +17,6 @@ post '/callback' do
   end
 
   events = client.parse_events_from(body)
-  event_handler = EventHandler.new
+  event_handler = EventHandler.new(client)
   event_handler.execute(events, client)
 end
