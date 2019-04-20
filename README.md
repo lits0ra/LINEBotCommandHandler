@@ -1,0 +1,2 @@
+# LINEBotCommandHandler
+LINEBotのコマンド応答のコードを書きやすく、わかりやすくするものです。
