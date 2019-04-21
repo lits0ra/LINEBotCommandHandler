@@ -1,7 +1,7 @@
 require 'sinatra'
 require 'line/bot'
 require './event_handler'
-require './functions'
+require './commands'
 def client
   @client ||= Line::Bot::Client.new do |config|
     config.channel_secret = ENV['LINE_CHANNEL_SECRET']

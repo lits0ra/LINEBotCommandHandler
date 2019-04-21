@@ -1,4 +1,4 @@
-require './functions'
+require './commands'
 class CommandHandler
   @@keyword_and_function = {}
 
