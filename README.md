@@ -1,5 +1,5 @@
 # LINEBotCommandHandler
-LINEBotのコマンド応答のコードを書きやすく、わかりやすくするものです。
+LINEBotのコマンド応答のコードを書きやすく、わかりやすくしたものです。
 # 動かし方
 ```gem install bundler```  
 ```bundle install```  
