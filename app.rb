@@ -15,8 +15,7 @@ post '/callback' do
   unless client.validate_signature(body, signature)
     error 400 do 'Bad Request' end
   end
-
   events = client.parse_events_from(body)
-  event_handler = EventHandler.new(client)
-  event_handler.execute(events)
+  event_handler = EventHandler.new
+  event_handler.execute(events, client)
 end
