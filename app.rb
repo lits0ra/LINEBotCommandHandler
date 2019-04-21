@@ -2,6 +2,7 @@ require 'sinatra'
 require 'line/bot'
 require './event_handler'
 require './commands'
+require './util'
 def client
   @client ||= Line::Bot::Client.new do |config|
     config.channel_secret = ENV['LINE_CHANNEL_SECRET']
@@ -18,7 +19,9 @@ post '/callback' do
 
   signature = request.env['HTTP_X_LINE_SIGNATURE']
   unless client.validate_signature(body, signature)
-    error 400 do 'Bad Request' end
+    error 400 do
+      error_log('Bad Request')
+    end
   end
   events = client.parse_events_from(body)
   event_handler = EventHandler.new
