@@ -1,6 +1,6 @@
 require './functions'
 class CommandHandler
-  @@keyword_and_function = {"あ" => method(:help_message)}
+  @@keyword_and_function = {}
 
   def regist_keyword_and_function(keyword, function)
     @@keyword_and_function.store(keyword, function)

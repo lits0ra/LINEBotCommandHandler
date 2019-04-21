@@ -6,7 +6,7 @@ end
 
 def message_template(reply_text)
   {
-      type: 'text',
-      text: reply_text
+    type: 'text',
+    text: reply_text
   }
 end

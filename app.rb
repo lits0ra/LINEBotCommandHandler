@@ -1,12 +1,17 @@
 require 'sinatra'
 require 'line/bot'
 require './event_handler'
+require './functions'
 def client
-  @client ||= Line::Bot::Client.new { |config|
-    config.channel_secret = ENV["LINE_CHANNEL_SECRET"]
-    config.channel_token = ENV["LINE_CHANNEL_TOKEN"]
-  }
+  @client ||= Line::Bot::Client.new do |config|
+    config.channel_secret = ENV['LINE_CHANNEL_SECRET']
+    config.channel_token = ENV['LINE_CHANNEL_TOKEN']
+  end
 end
+
+# Add new command
+new_command = CommandHandler.new
+new_command.regist_keyword_and_function('使い方', method(:help_message))
 
 post '/callback' do
   body = request.body.read
