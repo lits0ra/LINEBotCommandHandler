@@ -3,4 +3,5 @@ LINEBotのコマンド応答のコードを書きやすく、わかりやすく�
 # 動かし方
 ```gem install bundler```  
 ```bundle install```  
-```ruby app.rb```
+```ruby app.rb -p 8080```
+```ngrok http 8080```
